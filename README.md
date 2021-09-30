@@ -1,1 +1,1 @@
-# Kanban Board: To track your own Projects #
+# Kanban Board: A webapp to track personal Projects #
